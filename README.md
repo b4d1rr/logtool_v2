@@ -52,6 +52,7 @@ with the exact required structure:
   "top_services": [{ "service": "auth", "count": 0 }],
   "top_errors": [{ "message": "DB timeout", "count": 0 }]
 }
+```
 
 The script automatically calculates:
 
